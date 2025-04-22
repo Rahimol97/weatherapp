@@ -96,7 +96,7 @@ body{
 }
 
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
     .weather h1 {
       font-size: 60px !important;
     }
@@ -117,6 +117,7 @@ body{
     .search button {
       width: 50px !important;
       height: 50px !important;
+      background: none;
     }
     
     .weather-icon {
